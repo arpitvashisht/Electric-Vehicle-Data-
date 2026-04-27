@@ -56,7 +56,12 @@ The model shows that newer vehicles tend to have higher electric range.
 - Dashboard visualization  
 - Regression graph  
 - Other analysis charts  
-EV PROJECT PYTHON/Screenshot 2026-04-22 212448.png
+!image[alt][https://github.com/arpitvashisht/Electric-Vehicle-Data-/blob/75fdc3accfb14e83b1e0aa89e3c23577a21add6f/EV%20PROJECT%20PYTHON/Screenshot%202026-04-22%20212448.png]
+!image[alt][https://github.com/arpitvashisht/Electric-Vehicle-Data-/blob/75fdc3accfb14e83b1e0aa89e3c23577a21add6f/EV%20PROJECT%20PYTHON/Screenshot%202026-04-22%20212516.png]
+!image[alt][https://github.com/arpitvashisht/Electric-Vehicle-Data-/blob/75fdc3accfb14e83b1e0aa89e3c23577a21add6f/EV%20PROJECT%20PYTHON/Screenshot%202026-04-27%20080257.png]
+!image[alt][https://github.com/arpitvashisht/Electric-Vehicle-Data-/blob/75fdc3accfb14e83b1e0aa89e3c23577a21add6f/EV%20PROJECT%20PYTHON/Screenshot%202026-04-22%20212602.png]
+!image[alt][https://github.com/arpitvashisht/Electric-Vehicle-Data-/blob/75fdc3accfb14e83b1e0aa89e3c23577a21add6f/EV%20PROJECT%20PYTHON/Screenshot%202026-04-22%20212541.png]
+
 
 ---
 
