@@ -19,17 +19,29 @@ The project includes data cleaning, exploratory data analysis (EDA), visualizati
 ---
 
 ##  Key Features
-- Data cleaning (handling missing values and duplicates)  
-- Exploratory Data Analysis (EDA)  
-- Visualization using different plots:
-  - Bar Chart  
-  - Pie Chart  
-  - Line Graph  
-  - Scatter Plot  
-  - Heatmap  
-  - Boxplot  
-- Dashboard-style visualizations  
-- Linear Regression model for prediction  
+Data Cleaning (handling missing values and duplicates)
+
+Exploratory Data Analysis (EDA)
+
+Data Visualization Techniques:
+- Bar Chart (Top manufacturers, EV type count)
+- Pie Chart (BEV vs PHEV distribution)
+- Line Graph (EV growth over years)
+- Area Chart (using fill_between for trend visualization)
+- Scatter Plot (Model Year vs Electric Range)
+- Histogram (Electric range distribution)
+- KDE Plot (smooth distribution analysis)
+- Heatmap (correlation between features)
+- Boxplot (outlier detection)
+
+Dashboard Visualizations:
+- Multi-panel dashboards using GridSpec
+- Master summary dashboard combining multiple plots
+
+Machine Learning:
+- Linear Regression model for prediction
+- Model evaluation using R² score and MSE
+
 
 ---
 
@@ -76,5 +88,5 @@ This project demonstrates how data analysis and visualization can be used to und
 
 ---
 
-## 👨‍💻 Author
+##  Author
 Arpit Vashisht
