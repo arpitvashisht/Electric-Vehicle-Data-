@@ -52,10 +52,11 @@ The model shows that newer vehicles tend to have higher electric range.
 ---
 
 ##  Project Outputs
-(Add your screenshots here)
+
 - Dashboard visualization  
 - Regression graph  
 - Other analysis charts  
+EV PROJECT PYTHON/Screenshot 2026-04-22 212448.png
 
 ---
 
